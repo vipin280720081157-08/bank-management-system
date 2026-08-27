@@ -154,7 +154,3 @@ bank-management-system/
 - Add role-based access control for different bank staff roles
 - Add interest accrual and loan repayment scheduling
 - Add automated tests for constraint behavior
-
-## Author
-
-Maintained as a standalone PostgreSQL database project demonstrating relational schema design, SQL querying, and transaction/ACID handling.
